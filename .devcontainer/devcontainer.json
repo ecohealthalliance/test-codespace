@@ -3,7 +3,7 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.245.0/containers/r
 {
 	"name": "R (Community)",
-	"image": "rocker/tidyverse:4.2.1"
+	"image": "rocker/tidyverse:4.2.1",
 
 
 	//Use 'forwardPorts' to make a list of ports inside the container available locally.
